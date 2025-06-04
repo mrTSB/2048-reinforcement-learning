@@ -1,0 +1,13 @@
+Avg Score: 1476.98, Max Score: 3924.00                                                                                                                                         
+Tile distribution:                                                                                                                                                             
+  16: 3                                                                                                                                                                        
+  32: 55
+  64: 255
+  128: 461
+  256: 214
+  512: 12
+Move distribution:
+  Down: 72578
+  Up: 45042
+  Right: 191778
+  Left: 284257
