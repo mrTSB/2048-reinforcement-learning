@@ -1,4 +1,4 @@
-# cs224r_final_project
+# 2048 Reinforcement Learning
 
 This repository contains the final project for CS224r, focused on deep reinforcement learning approaches for the game 2048. The project implements and compares advanced RL algorithms, including distributional and recurrent DQN variants, quantile regression DQN, PPO, and more.
 
